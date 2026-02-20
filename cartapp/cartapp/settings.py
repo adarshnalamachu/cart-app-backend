@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-j@2-46kf$#=datko376cd6=q7gm(+%59qoiod1z4kn)se0o0!x
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [ 'cart-app-backend-2ubt.onrender.com' , 'https://cart-app-backend-2ubt.onrender.com' ]
 
 import os
 
